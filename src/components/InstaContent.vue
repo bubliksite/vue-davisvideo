@@ -120,7 +120,7 @@
       </p>
       <div class="row mt-5">
         <div
-          class="col"
+          class="col-lg col-md-4 col-6 mb-3"
           v-for="item in weeklyEnglishSmallContent"
           :key="item.video"
         >
@@ -152,10 +152,10 @@
         {title: 'Mirain Coats Shot', video: 345635152},
         {title: 'Firefox Promo', video: 345635129},
         {title: 'Creating tattoo', video: 345635108},
-        {title: 'Озорные белки Instagram', video: 356575034},
-        {title: 'Mad.Stomatolog post', video: 356574992},
+        {title: 'Озорные белки', video: 356575034},
+        {title: 'Mad.Stomatolog', video: 356574992},
         {title: 'Le glamour post', video: 356574970},
-        {title: 'Berkhov_doc post promo', video: 357054757}
+        {title: 'Berkhov_doc promo', video: 357054757}
       ],
       weeklyEnglishContent: [
         {title: 'Episode 1', video: 339960192},

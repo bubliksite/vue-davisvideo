@@ -12,15 +12,15 @@
               <p class="m-0 pl-1">davis@davisvideo.ru</p>
             </a>
           </li>
-          <li class="nav-item">
-            <a
-              href="tel:+7 999 520 66 16"
-              class="nav-link d-flex align-items-center"
-            >
-              <img class="mr-2" src="@/assets/images/phone.svg" alt="" />
-              <p class="m-0 pl-1">+7 999 520 66 16</p>
-            </a>
-          </li>
+          <!--          <li class="nav-item">-->
+          <!--            <a-->
+          <!--              href="tel:+7 999 520 66 16"-->
+          <!--              class="nav-link d-flex align-items-center"-->
+          <!--            >-->
+          <!--              <img class="mr-2" src="@/assets/images/phone.svg" alt="" />-->
+          <!--              <p class="m-0 pl-1">+7 999 520 66 16</p>-->
+          <!--            </a>-->
+          <!--          </li>-->
         </ul>
         <ul class="nav links d-flex justify-content-end">
           <li class="nav-item">
